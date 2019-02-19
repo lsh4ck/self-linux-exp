@@ -1,4 +1,4 @@
-# linux-exp
-linuxexp
-https://github.com/rebootuser/LinEnum
-http://www.securitysift.com/download/linuxprivchecker.py
+##linux-exp
+###Scanner
+[LinEnum](https://github.com/rebootuser/LinEnum)
+[linuxprivchecker](http://www.securitysift.com/download/linuxprivchecker.py)
