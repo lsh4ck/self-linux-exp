@@ -8,3 +8,4 @@
 ### Collections
 1. [lucyoa/kernel-exploits](https://github.com/lucyoa/kernel-exploits)
 2. [Linux_Local_Root_Exploits](http://exploit.linuxnote.org/)
+3. [SecWiki-linux-kernel-exploits](https://github.com/SecWiki/linux-kernel-exploits)
