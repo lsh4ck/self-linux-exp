@@ -6,6 +6,10 @@
 4. [unix-privesc-check](http://pentestmonkey.net/tools/audit/unix-privesc-check)
 5. [linux-exploit-suggester](https://github.com/mzet-/linux-exploit-suggester)
 6. [unix-privesc-check](https://github.com/pentestmonkey/unix-privesc-check)
+> cheat sheet:
+```
+curl -O http://pentestmonkey.net/tools/unix-privesc-check/unix-privesc-check-1.4.tar.gz tar xzfv unix-privesc-check-1.4.tar.gz cd unix-privesc-check-1.4 chmod +x unix-privesc-check ./unix-privesc-check detailed > out.txt grep WARNING out.txt
+```
 ### Collections
 1. [lucyoa/kernel-exploits](https://github.com/lucyoa/kernel-exploits)
 2. [Linux_Local_Root_Exploits](http://exploit.linuxnote.org/)
