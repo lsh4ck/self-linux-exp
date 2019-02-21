@@ -17,4 +17,4 @@ curl -O http://pentestmonkey.net/tools/unix-privesc-check/unix-privesc-check-1.4
 3. [SecWiki-linux-kernel-exploits](https://github.com/SecWiki/linux-kernel-exploits)
 
 ### command suid&functions
-1. [gtfobins]https://gtfobins.github.io/
+1. [gtfobins](https://gtfobins.github.io/)
