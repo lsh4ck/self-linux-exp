@@ -1,4 +1,5 @@
 ## linux-exp
+
 ### Scanner
 1. [LinEnum](https://github.com/rebootuser/LinEnum)
 2. [linuxprivchecker](http://www.securitysift.com/download/linuxprivchecker.py)
@@ -14,3 +15,6 @@ curl -O http://pentestmonkey.net/tools/unix-privesc-check/unix-privesc-check-1.4
 1. [lucyoa/kernel-exploits](https://github.com/lucyoa/kernel-exploits)
 2. [Linux_Local_Root_Exploits](http://exploit.linuxnote.org/)
 3. [SecWiki-linux-kernel-exploits](https://github.com/SecWiki/linux-kernel-exploits)
+
+### command suid&functions
+1. [gtfobins]https://gtfobins.github.io/
